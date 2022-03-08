@@ -1,4 +1,4 @@
-name: python 3.9
+name: python 3.10
 dependencies:
-  - python=3.9
+  - python=3.10
   - numpy
